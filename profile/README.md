@@ -1,12 +1,18 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1200&lines=ANZORIS;Agence+Digitale+Premium;Sites+Web+Sur+Mesure;Branding+%E2%80%A2+SEO+%E2%80%A2+D%C3%A9veloppement;Cr%C3%A9ons+des+exp%C3%A9riences+qui+marquent" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
 # ANZORIS
 
 ### Digital Agency • Design • Development • Branding
 
-Nous concevons des expériences digitales haut de gamme qui marquent les esprits.
+Créer des expériences digitales qui marquent les esprits.
 
-[Site Web](https://anzoris.fr) • [Portfolio](https://anzoris.fr) • [Contact](https://anzoris.fr)
+[🌐 Site Web](https://anzoris.fr) • [📂 Portfolio](https://anzoris.fr) • [📩 Contact](https://anzoris.fr)
 
 </div>
 
